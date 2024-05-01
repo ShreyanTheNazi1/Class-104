@@ -1,0 +1,27 @@
+.heading {
+width:100%;
+font-size: 25px;
+box-shadow: 5px 5px 30px black;
+}
+
+.object-names {
+    font-family: Cochin;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#camera, #result {
+    width: 350px;
+    height: 350px;
+    border: 5px solid red;
+}
+
+#object_name, #object_accuracy {
+    color: green;
+    font-weight: bold;
+}
+
+body {
+    background: radial-gradient(circle, rgba(238,174,202,0.9) 0%, rgba(148,187,233,0.9) 100%);
+}
